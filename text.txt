@@ -1,1 +1,2 @@
 This is a text file with words in it.
+Now it has more words.
